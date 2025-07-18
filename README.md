@@ -14,3 +14,10 @@ Calcula el área y el perímetro de la figura seleccionada.
 Imprime los resultados en pantalla.
 
 
+
+
+Area y Perimetro de Figuras Geometricas_v1.c : Cambios y mejoras al programa original, es una version mas actualizada 
+
+Areas y Perimetros de Figuras Geometricas.c: Programa Original
+
+SCDS.pdf: Documentacion del proyecto
